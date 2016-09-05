@@ -16,6 +16,9 @@ project is about providing and analysing about elections and it mainly focuses o
 
 links to each tools used in this project
 
-This link used for  [huffingtonpost] (http://elections.huffingtonpost.com).
-link used for [jquery] (http://jquery.com/).
-link used for [java script] (https://www.javascript.com/).
+*[huffingtonpost] (http://elections.huffingtonpost.com).
+*[jquery] (http://jquery.com/).
+*[java script] (https://www.javascript.com/).
+
+###pramod pudotha
+i have made change in index.html in the code from bars to lines which are shown in  blue lines
