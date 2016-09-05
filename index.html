@@ -30,11 +30,11 @@
                     });
                 
                 candidateWrapper.append("div")
-                    .classed("bar", true)
+                    .classed("line", true)
                     .transition()
                     .duration(1000)
                     .style("width", function(candidate) {
-                        return candidate.value * 10 + "px";
+                        return candidate.value * 12 + "px";
                     });
                 
             }
