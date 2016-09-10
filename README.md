@@ -1,4 +1,4 @@
-#2016 Presidential Election Polling
+#2016 presidential election polling
 
 ###Description
 This project displays polling results for the Republican and Democratic presidential candidates using data provided via a Huffington Post API.
@@ -19,3 +19,7 @@ I increased the margins on the "choice" class. I also added padding and a backgr
 
 ####Miranda Reese
 Decided to give a little flair to the text and used Courier New as the font, and changed the text color to beige.
+
+###pramod pudotha
+i have made change in index.html in the code from bars to lines which are shown in  blue lines#2016 Presidential Election Polling
+
