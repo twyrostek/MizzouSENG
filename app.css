@@ -3,11 +3,14 @@ body {
 }
 #graph .choice {
     float: left;
-    font-family: arial;
+    font-family: "Courier New";
+    color: #FFF8DC;
     font-size: 1.5em;
     min-width: 200px;
     text-align: right;
-    margin: 8px 5px;
+    background-color: darkgoldenrod;
+    margin: 20px 15px;
+    padding: 10px;
 }
 #graph .bar {
     width: 0;
